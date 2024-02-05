@@ -17,13 +17,15 @@
 ### Example
 For example, if the user inputs 5 for both rows and columns, the program will generate the following pattern:
 <br/>
+<br/>
 <p align = "center">
-* * * * 
-* * * * 
-* * * * 
-* * * * 
-* * * *
+* * * * *
+<br/>
+* * * * *
+<br/>
+* * * * *
+<br/>
+* * * * *
+<br/>
+* * * * *
 </p>
-
-> [!Conclusion] 
-> Completed
