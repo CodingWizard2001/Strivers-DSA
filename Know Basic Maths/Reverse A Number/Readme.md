@@ -2,8 +2,8 @@
 
 ### Explanation:
 
-- Take input for the number (num).
-- Initialize a variable count to keep track of the number of digits, set it to 0 initially.
+- Take the input for the number (num).
+- Initialize a variable count to keep track of the number of digits, set it to 0.
 - Use a while loop to iterate until the number becomes 0:
     - Increment count by 1 for each iteration.
     - Divide the number by 10 to remove the last digit.
@@ -16,15 +16,15 @@ For example, if the user inputs 5 for both rows and columns, the program will ge
 
 ```cpp
 
-Enter a number : 453
-Reverse will be : 354
+Enter a number: 453
+Reverse will be: 354
 
 ```
 <br/>
-<br/>
+
 ```cpp
 
-Enter a number : -456
-Reverse will be : -654
+Enter a number: -456
+Reverse will be: -654
 
 ```
