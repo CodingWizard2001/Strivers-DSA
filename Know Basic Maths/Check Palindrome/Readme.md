@@ -19,15 +19,15 @@ For example,
 
 ```cpp
 
-Enter a number : 4532
+Enter a number: 4532
 Not a palindrome number
 
 ```
 <br/>
-<br/>
+
 ```cpp
 
-Enter a number : 121
+Enter a number: 121
 Palindrome number
 
 ```
