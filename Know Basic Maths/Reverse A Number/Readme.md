@@ -10,8 +10,6 @@
 - After the loop, print the value of count, which represents the number of digits in the original number.
 
 ### Example
-For example, if the user inputs 5 for both rows and columns, the program will generate the following pattern:
-<br/>
 <br/>
 
 ```cpp
